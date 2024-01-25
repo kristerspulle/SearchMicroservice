@@ -2,7 +2,7 @@
 
 ### Apraksts
 
-Šis mikroserviss tiks izstrādāts, lai integrētu trešās puses API un veiktu datu transformāciju, nodrošinot rezultātu sagatavošanu atbilstoši ieejas parametriem. Serviss ir jāizstrādā, izmantojot [ExpressJs](https://expressjs.com/) framework un Node.js serveri.
+Šis mikroserviss tika izstrādāts, lai integrētu trešās puses API un veiktu datu transformāciju, nodrošinot rezultātu sagatavošanu atbilstoši ieejas parametriem. Serviss ir izstrādāts, izmantojot [ExpressJs](https://expressjs.com/) framework un Node.js serveri.
 
 ### Projekta startēšana
 
@@ -22,7 +22,7 @@
 
 ### Description
 
-This microservice will be developed to integrate with third-party APIs and perform data transformation, ensuring result preparation according to input parameters. The service is to be developed using the [ExpressJs](https://expressjs.com/) framework and Node.js server.
+This microservice is developed to integrate with third-party APIs and perform data transformation, ensuring result preparation according to input parameters. The service is developed using the [ExpressJs](https://expressjs.com/) framework and Node.js server.
 
 ### Project Setup
 
