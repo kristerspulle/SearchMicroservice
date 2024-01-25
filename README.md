@@ -26,8 +26,8 @@ This microservice will be developed to integrate with third-party APIs and perfo
 
 ### Project Setup
 
-Run `"npm run start:nodemon"` in the server folder.
-Run `"npm run dev"` in the web-app folder.
+- Run `"npm run start:nodemon"` in the server folder.
+- Run `"npm run dev"` in the web-app folder.
 
 ### Completed Additional Tasks
 
